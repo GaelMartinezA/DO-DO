@@ -30,6 +30,8 @@ html, body {
 }
 
 .Letra, .Guion {
+    Color: #121212;
+    font-family: 'Chillax-Bold';
     display: inline-block;
     opacity: 0;
     transform: translateY(30px);
